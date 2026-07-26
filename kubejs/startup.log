@@ -1,0 +1,62 @@
+[17:08:03] [INIT] KubeJS 2101.7.2-build.368; MC 2101 NeoForge
+[17:08:03] [INIT] Loaded plugins:
+[17:08:03] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[17:08:03] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[17:08:03] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[17:08:03] [INIT] - pro.mikey.kubeutils.kubejs.KubeUtilsPlugin
+[17:08:03] [INIT] - net.zhaiji.kubejscurios.kubejs.KubeJSCuriosPlugin
+[17:08:03] [INIT] - dev.ftb.mods.ftbstuffnthings.integration.kubejs.KubeJSIntegration
+[17:08:03] [INIT] - net.byAqua3.avaritia.compat.kubejs.AvaritiaKubeJSPlugin
+[17:08:03] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[17:08:03] [INIT] - com.starskyxiii.collapsible_groups.compat.kubejs.CollapsibleGroupsKubeJSPlugin
+[17:08:03] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs71.plugin.KJSTPlugin
+[17:08:03] [INIT] - dev.uncandango.kubejstweaks.kubejs.kjs72.plugin.KJSTPlugin
+[17:08:03] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[17:08:03] [INIT] - com.almostreliable.morejs.Plugin
+[17:08:03] [INIT] - com.buuz135.replication.integration.kubejs.ReplicationKubeJSPlugin
+[17:08:03] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[17:08:03] [INIT] - com.bobvarioa.kubejspowah.KubeJSPowahPlugin
+[17:08:03] [INIT] - com.sunekaer.sdrp.neoforge.kubejs.SDRPKubeJSIntegration
+[17:08:03] [INIT] - com.almostreliable.kubeio.KubePlugin
+[17:08:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[17:08:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[17:08:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[17:08:03] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[17:08:03] [INIT] - com.almostreliable.kubeaa.KubePlugin
+[17:08:03] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[17:08:03] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
+[17:08:03] [INIT] - fr.frinn.custommachinery.common.integration.kubejs.CustomMachineryKubeJSPlugin
+[17:08:03] [INIT] - fr.frinn.custommachinerymekanism.common.integration.kubejs.CustomMachineryMekanismKubeJSPlugin
+[17:08:03] [INIT] - dev.ftb.mods.ftbunearthed.integration.kubejs.UnearthedKubeJSPlugin
+[17:08:03] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[17:08:03] [INIT] - com.sammy.malum.compat.kubejs.MalumJSPlugin
+[17:08:03] [INIT] - com.chen1335.renderjs.kubejs.RenderJSPlugin
+[17:08:03] [INIT] - com.chen1335.renderjs.kubejs.RenderJSCommonPlugin
+[17:08:03] [INIT] - com.leclowndu93150.chisel.compat.kubejs.ChiselKubeJSPlugin
+[17:08:07] [INFO] Loaded script startup_scripts:unification.js in 0.515 s
+[17:08:07] [INFO] Loaded script startup_scripts:registry/vilager.js in 0.043 s
+[17:08:07] [INFO] Loaded script startup_scripts:registry/slurry.js in 0.012 s
+[17:08:07] [INFO] startup_scripts:events/ae2.js#3: Loaded Java class 'appeng.me.GridEventBus'
+[17:08:07] [INFO] startup_scripts:events/ae2.js#4: Loaded Java class 'appeng.api.networking.events.GridSpatialEvent'
+[17:08:07] [INFO] Loaded script startup_scripts:events/ae2.js in 0.024 s
+[17:08:07] [INFO] Loaded script startup_scripts:globals.js in 0.006 s
+[17:08:07] [INFO] Loaded script startup_scripts:modifications/blocks.js in 0.002 s
+[17:08:07] [INFO] startup_scripts:modifications/entitys.js#27: Loaded Java class 'net.neoforged.neoforge.event.entity.living.LivingKnockBackEvent'
+[17:08:07] [INFO] Loaded script startup_scripts:modifications/entitys.js in 0.052 s
+[17:08:07] [INFO] startup_scripts:modifications/items.js#52: Loaded Java class 'net.neoforged.neoforge.common.NeoForge'
+[17:08:07] [INFO] startup_scripts:modifications/items.js#53: Loaded Java class 'vazkii.psi.common.item.tool.ItemPsimetalAxe'
+[17:08:07] [INFO] startup_scripts:modifications/items.js#54: Loaded Java class 'vazkii.psi.common.item.tool.ItemPsimetalPickaxe'
+[17:08:07] [INFO] startup_scripts:modifications/items.js#55: Loaded Java class 'vazkii.psi.common.item.tool.ItemPsimetalShovel'
+[17:08:07] [INFO] startup_scripts:modifications/items.js#56: Loaded Java class 'vazkii.psi.common.item.tool.ItemPsimetalSword'
+[17:08:07] [INFO] startup_scripts:modifications/items.js#57: Loaded Java class 'vazkii.psi.common.item.armor.ItemPsimetalArmor'
+[17:08:07] [INFO] Loaded script startup_scripts:modifications/items.js in 0.035 s
+[17:08:07] [INFO] Loaded script startup_scripts:modifications/renaming.js in 0.007 s
+[17:08:07] [INFO] startup_scripts:registry/blocks.js#1: Loaded Java class 'dev.latvian.mods.kubejs.block.BlockRenderType'
+[17:08:07] [INFO] Loaded script startup_scripts:registry/blocks.js in 0.044 s
+[17:08:07] [INFO] Loaded script startup_scripts:registry/effects.js in 0.008 s
+[17:08:07] [INFO] Loaded script startup_scripts:registry/fluids.js in 0.001 s
+[17:08:07] [INFO] Loaded script startup_scripts:registry/items.js in 0.012 s
+[17:08:07] [INFO] Loaded script startup_scripts:registry/sound.js in 0.003 s
+[17:08:07] [INFO] Loaded 14/14 KubeJS startup scripts in 4.498 s with 0 errors and 0 warnings
+[17:08:09] [INFO] Validated 907 files in kubejs/assets/ in 1215ms
+[17:08:09] [INFO] Validated 10 files in kubejs/data/ in 15ms
