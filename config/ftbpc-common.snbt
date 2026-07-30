@@ -22,6 +22,10 @@
 		# Custom spread factors for specific structures.
 		custom_spread_factors: [ ]
 	}
+	forced-game-rules: {
+		# Game rules that are forced on the server. The keys must be valid game rule IDs.
+		rules: { }
+	}
 	integrations: {
 		# Configuration options for the FTB Chunks mod integration. Only effective if FTB Chunks is installed.
 		ftb_chunks: {
@@ -44,5 +48,8 @@
 		# When enabled, the shaders notice will be shown on world start if shaders are included in the pack.
 		# Default: false
 		show_on_start: true
+	}
+	structure_placer: {
+		templates: { }
 	}
 }
